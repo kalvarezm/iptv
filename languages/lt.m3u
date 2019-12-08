@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/ksZ53A1.png" tvg-country="LT" tvg-url="" group-title="Sport",Sport1
+http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/ksZ53A1.png" tvg-country="LT" tvg-url="" group-title="Sport",Sport1
+http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
